@@ -168,7 +168,7 @@ This model can be used for:
 
 ### Exploded View
 
-<img width="1920" height="1080" alt="Screenshot (57)" src="https://github.com/user-attachments/assets/93dfa2c5-e3d1-4669-8cba-1b4b09c1b648" />
+<img width="1918" height="1013" alt="Screenshot 2026-06-18 185642" src="https://github.com/user-attachments/assets/71536a8a-865c-49e6-b125-3330cb641202" />
 
 ---
 
